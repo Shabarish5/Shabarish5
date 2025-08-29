@@ -1,5 +1,7 @@
+<!-- Profile README for Shabarish5 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=180&section=header&text=Hi%20there!%20I'm%20Shabarish%20👋&fontSize=38&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Python%20Enthusiast&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=180&section=header&text=Hi%20there!%20I'm%20Shabarish%20B%20L%20👋&fontSize=38&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Python%20Enthusiast&descAlignY=60" alt="header"/>
 </p>
 
 <p align="center">
@@ -48,12 +50,51 @@
   <a href="https://github.com/Shabarish5/Youtube_Video_Summarizer">
     <img src="https://img.shields.io/badge/Youtube%20Video%20Summarizer-OpenAI%20%7C%20Streamlit-ff69b4?logo=youtube&style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Shabarish5/AIEmosense">
+    <img src="https://img.shields.io/badge/AIEmosense-Facial%20Emotion%20AI-6A5ACD?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Shabarish5/Crime-Detection-System">
+    <img src="https://img.shields.io/badge/Crime%20Detection-ML%20%7C%20Vision-1e90ff?style=for-the-badge"/>
+  </a>
 </p>
-<ul>
-  <li><b>AIEmosense:</b> Real-time facial emotion detection system with auto-attendance (Patent Pending!)</li>
-  <li><b>Crime Detection System:</b> ML & Computer Vision based live surveillance and alerting</li>
-  <li><b><a href="https://github.com/Shabarish5/Youtube_Video_Summarizer">YouTube Video Summarizer</a>:</b> Instant transcript extraction & AI-powered note generation</li>
-</ul>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Shabarish5/Youtube_Video_Summarizer"><b>🎥 YouTube Video Summarizer</b></a>
+      <br>
+      <!--<img src="https://img.icons8.com/color/64/000000/youtube-play.png" width="40" alt="YouTube"/>-->
+      <br>
+      <span>
+        📼 Instant transcript extraction <br>
+        📝 AI-powered note generation <br>
+        🤖 Built with OpenAI & Streamlit
+      </span>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Shabarish5/AIEmosense"><b>😊 AIEmosense</b></a>
+      <br>
+      <!--<img src="https://img.icons8.com/color/64/000000/face-id.png" width="40" alt="AIEmosense"/>-->
+      <br>
+      <span>
+        😊 Real-time facial emotion detection <br>
+        📸 Auto-attendance system <br>
+        🏅 <b>Patent Pending!</b>
+      </span>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Shabarish5/Crime-Detection-System"><b>🕵️‍♂️ Crime Detection System</b></a>
+      <br>
+      <!--<img src="https://img.icons8.com/color/64/000000/cctv-camera.png" width="40" alt="Crime Detection"/>-->
+      <br>
+      <span>
+        🕵️ ML-based live surveillance <br>
+        🚨 Computer Vision alerting <br>
+        🔍 Proactive crime detection
+      </span>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,6 +139,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shabarish5&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shabarish5&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<!-- 🐍 Snake SVG animation -->
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 <p align="center">
