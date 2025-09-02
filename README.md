@@ -56,11 +56,14 @@
   <a href="https://github.com/Shabarish5/Crime-Detection-System">
     <img src="https://img.shields.io/badge/Crime%20Detection-ML%20%7C%20Vision-1e90ff?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Shabarish5/AI-document-assistant">
+    <img src="https://img.shields.io/badge/AI%20Document%20Assistant-RAG%20%7C%20LLM-4B8BBE?style=for-the-badge"/>
+  </a>
 </p>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Shabarish5/Youtube_Video_Summarizer"><b>🎥 YouTube Video Summarizer</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/youtube-play.png" width="40" alt="YouTube"/>-->
@@ -71,7 +74,7 @@
         🤖 Built with OpenAI & Streamlit
       </span>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Shabarish5/AIEmosense"><b>😊 AIEmosense</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/face-id.png" width="40" alt="AIEmosense"/>-->
@@ -82,7 +85,7 @@
         🏅 <b>Patent Pending!</b>
       </span>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/Shabarish5/Crime-Detection-System"><b>🕵️‍♂️ Crime Detection System</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/cctv-camera.png" width="40" alt="Crime Detection"/>-->
@@ -91,6 +94,17 @@
         🕵️ ML-based live surveillance <br>
         🚨 Computer Vision alerting <br>
         🔍 Proactive crime detection
+      </span>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Shabarish5/AI-document-assistant"><b>📄 AI Document Assistant</b></a>
+      <br>
+      <!--<img src="https://img.icons8.com/color/64/000000/document--v1.png" width="40" alt="AI Document Assistant"/>-->
+      <br>
+      <span>
+        📄 Chat with documents using LLMs <br>
+        🔍 RAG-powered Q&A <br>
+        ⚡ Supports PDF, DOCX, TXT & more
       </span>
     </td>
   </tr>
