@@ -59,11 +59,14 @@
   <a href="https://github.com/Shabarish5/AI-document-assistant">
     <img src="https://img.shields.io/badge/AI%20Document%20Assistant-RAG%20%7C%20LLM-4B8BBE?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Shabarish5/CodeCritic-AI-Code-Reviewer-">
+    <img src="https://img.shields.io/badge/CodeCritic-AI%20Code%20Reviewer-00BFFF?style=for-the-badge"/>
+  </a>
 </p>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Shabarish5/Youtube_Video_Summarizer"><b>🎥 YouTube Video Summarizer</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/youtube-play.png" width="40" alt="YouTube"/>-->
@@ -74,7 +77,7 @@
         🤖 Built with OpenAI & Streamlit
       </span>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Shabarish5/AIEmosense"><b>😊 AIEmosense</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/face-id.png" width="40" alt="AIEmosense"/>-->
@@ -85,7 +88,7 @@
         🏅 <b>Patent Pending!</b>
       </span>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Shabarish5/Crime-Detection-System"><b>🕵️‍♂️ Crime Detection System</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/cctv-camera.png" width="40" alt="Crime Detection"/>-->
@@ -96,7 +99,7 @@
         🔍 Proactive crime detection
       </span>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/Shabarish5/AI-document-assistant"><b>📄 AI Document Assistant</b></a>
       <br>
       <!--<img src="https://img.icons8.com/color/64/000000/document--v1.png" width="40" alt="AI Document Assistant"/>-->
@@ -105,6 +108,17 @@
         📄 Chat with documents using LLMs <br>
         🔍 RAG-powered Q&A <br>
         ⚡ Supports PDF, DOCX, TXT & more
+      </span>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/Shabarish5/CodeCritic-AI-Code-Reviewer-"><b>🧑‍⚖️ CodeCritic-AI-Code-Reviewer-</b></a>
+      <br>
+      <!--<img src="https://img.icons8.com/color/64/000000/code.png" width="40" alt="CodeCritic"/>-->
+      <br>
+      <span>
+        🤖 Automated AI-powered code review <br>
+        📊 Detects bugs & vulnerabilities <br>
+        ⚡ Supports multiple languages
       </span>
     </td>
   </tr>
